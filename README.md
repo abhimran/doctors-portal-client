@@ -1,6 +1,6 @@
 # Doctors Portal
 
-[Website](https://doctors-portal-e4926.web.app/) | [Server] (https://github.com/abhimran/doctors-portal-server)
+[Website](https://doctors-portal-e4926.web.app/) | [Server](https://github.com/abhimran/doctors-portal-server)
 
 A full-stack app where you can pick the date and time and fix an appointment with your doctor. A doctor can review his appointments and prescribe medicine to a patient.
 
